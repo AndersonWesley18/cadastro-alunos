@@ -1,0 +1,26 @@
+{[
+"aluno":{
+  "nome":"a"
+  "nascimento":"a"
+  "idade":"a"
+  "nome_pai":"a"
+  "nome_mae":"aa"
+  "endereco":""
+  "bairro":"a"
+  "cidade":"aa"
+  "estado":"a"
+  "pais":"a"
+},
+"aluno":{
+  "nome":"b"
+  "nascimento":"b"
+  "idade":"bb"
+  "nome_pai":"b"
+  "nome_mae":"b"
+  "endereco":"b"
+  "bairro":"b"
+  "cidade":"b"
+  "estado":"b"
+  "pais":"b"
+},
+]}
